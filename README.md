@@ -78,3 +78,10 @@ If you find our work useful, please consider citing our work:
       url={https://arxiv.org/abs/2408.00203}, 
 }
 ```
+
+pip install pydantic==2.10.6
+python -m pip install --upgrade transformers==4.49.0
+
+https://developer.nvidia.com/cuda-downloads?target_os=Windows
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+
